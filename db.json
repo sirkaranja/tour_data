@@ -1,0 +1,98 @@
+{
+    "tours": [
+      {
+        "like": " ❤️",
+        "tour_image": "https://i0.wp.com/www.travelweek.ca/wp-content/uploads/2019/01/Explore-the-Islands-with-Hawai%E2%80%98i-Tourism-Canada.jpg?fit=673%2C427&ssl=1",
+        "id": "1",
+        "title": "Hawai",
+        "price": "Ksh. 250,000",
+        "destination": "Hawai",
+        "description": "Get to experience the best holiday<br>few slots remaining "
+      },
+      {
+        "tour_image": "https://d1l3wviaauwkfu.cloudfront.net/2021/11/Milaidhoo_Maldives_Batheli_By_The_Reef__10_-1920.jpg",
+        "like": " ❤️",
+        "id": "2",
+        "title": "Maldives",
+        "price": "Ksh. 300000",
+        "destination": "Maldives",
+        "description": "Get to experience the best in Maldives<br>The Maldive Islands are a series of coral atolls built up from the crowns of a submerged ancient volcanic    mountain range."
+      },
+      {
+        "tour_image": "https://lp-cms-production.imgix.net/features/2017/09/dubai-marina-skyline-2c8f1708f2a1.jpg?auto=format&q=75&w=3840",
+        "like": " ❤️",
+        "id": "3",
+        "title": "Dubai",
+        "price": "Ksh. 85,000",
+        "destination": "Dubai",
+        "description": "Get to experience the best holiday<br>few slots remaining "
+      },
+      {
+        "tour_image": "https://www.kenyasafari.com/images/malindi-marine-park-590x390.jpg",
+        "like": " ❤️",
+        "id": "4",
+        "title": "Kenya",
+        "price": "Ksh. 10,500",
+        "destination": "Kenya",
+        "description": "Get to experience the best holiday<br>few slots remaining "
+      }
+    ],
+    "feedback": [
+      {
+        "name": "dan karanja",
+        "number": "54767879867",
+        "email": "sirkaranja12@gmail.com",
+        "message": "weteregrthgt",
+        "id": "lcK62X4"
+      },
+      {
+        "name": "francis madilu",
+        "number": "096776326",
+        "email": "madilu@gmail.com",
+        "message": "do you go to zanzibar and when is it",
+        "id": "u_r618s"
+      },
+      {
+        "name": "Benedict daktari",
+        "number": "097654467",
+        "email": "bene@gmail.com",
+        "message": "happy with your services",
+        "id": "gNTX7rj"
+      },
+      {
+        "name": "tripero",
+        "number": "567654",
+        "email": "dffd@mail.com",
+        "message": "dsvvdv",
+        "id": "7WrD704"
+      },
+      {
+        "name": "tripero",
+        "number": "567654",
+        "email": "dffd@mail.com",
+        "message": "dsvvdv",
+        "id": "k9YKdVJ"
+      },
+      {
+        "name": "test3 ",
+        "number": "0975452",
+        "email": "test3@gmail.com",
+        "message": "happy so far",
+        "id": "2wV9iYJ"
+      },
+      {
+        "name": "test3 ",
+        "number": "0975452",
+        "email": "test3@gmail.com",
+        "message": "happy so far",
+        "id": "lDjnyTy"
+      },
+      {
+        "name": "Faith Kilonzi",
+        "number": "763278923",
+        "email": "faith@gmail.com",
+        "message": "how much doues maldives tour cost",
+        "id": "sFK5TLU"
+      }
+    ]
+  }
